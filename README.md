@@ -1,3 +1,19 @@
+<h4 align="center"> 
+	🚧 Marvel 🚀
+</h4> 
+
+<h1 align="center">
+    <img alt="versão lts do projeto" title="#Marvel" src="./.github/final.gif" />
+</h1>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasabnovato/marvel?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasabnovato/marvel">
+  <a href="https://www.twitter.com/douglasabnovato/">
+    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%douglasabnovato%2Fmarvel">
+  </a>
+</p>
+
 ## Marvel
 
 Menu responsivo com Styled Components com o tema da marvel.
@@ -12,6 +28,16 @@ Menu responsivo com Styled Components com o tema da marvel.
 - [x] toggle menu
 - [x] breakpoint em variáveis no arquivo media.js
 - [x] favicon personalizado
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="versão 1 do projeto" title="#marvel" src="./.github/tela-1.jpg" width="400px">
+</p> 
+
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="versão 1 do projeto" title="#marvel" src="./.github/tela-2.jpg" height="400px">
+  <img alt="versão 1 do projeto" title="#marvel" src="./.github/tela-3.jpg" height="400px">
+</p> 
 
 ### warnings resolvidos
 

@@ -29,17 +29,18 @@ Menu responsivo com Styled Components com o tema da marvel.
 - [x] breakpoint em variáveis no arquivo media.js
 - [x] favicon personalizado
 
+### Layouts
+
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="versão 1 do projeto" title="#marvel" src="./.github/tela-1.jpg" width="400px">
 </p> 
-
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="versão 1 do projeto" title="#marvel" src="./.github/tela-2.jpg" height="400px">
   <img alt="versão 1 do projeto" title="#marvel" src="./.github/tela-3.jpg" height="400px">
 </p> 
 
-### warnings resolvidos
+### Warnings Resolvidos
 
 - [substituído ReactDOM por createroot](https://bobbyhadz.com/blog/react-you-are-importing-createroot-from-react-dom)
 

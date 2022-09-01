@@ -18,6 +18,14 @@
 
 Menu responsivo com Styled Components com o tema da marvel.
 
+### Tecnologias
+
+- responsividades
+- reactjs
+- styled components
+
+### Tarefas
+
 - [x] criar projeto: `npx create-react-app`
 - [x] instalar styled components: `npm install styled-components`
 - [x] criar componente Header

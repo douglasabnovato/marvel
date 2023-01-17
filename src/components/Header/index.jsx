@@ -15,7 +15,7 @@ function Header() {
   const toggleMenu = () => {
     setShow(!show)
   }
-  
+
   return (
     <HeaderStyled>
       <LogoStyled>
